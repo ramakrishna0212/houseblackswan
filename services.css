@@ -1,0 +1,33 @@
+* {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(255, 255, 255);
+}
+.logo{
+    margin-top: -4%;
+    margin-left: 3%;
+}
+.baroption {
+    position: fixed;
+    font-size: 22px;
+    margin-top: 0%;
+    padding-left: 86%;
+    font-weight: 700;
+    text-align: end;
+}
+.baroption a{
+    padding: 1px 16px;
+}
+.by{
+    
+    WIDTH: 45%;
+    padding-left: 38%;
+    margin-top: 18%;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 174%;
+
+}

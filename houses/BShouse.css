@@ -1,0 +1,55 @@
+* {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: white;
+}
+.logo{
+    margin-top: -2%;
+    margin-left: 18%;
+}
+.baroption {
+    position: fixed;
+    font-size: 22px;
+    margin-top: 0%;
+    padding-left: 86%;
+    font-weight: 700;
+    text-align: end;
+}
+.baroption a{
+    padding: 1px 16px;
+}
+
+button{
+    color: white;
+    width: 19%;
+    padding: 15px;
+    font-size: 91%;
+    background-color: #000000d1;
+    border: solid 1px #000000;
+    margin-left: -37%;
+    cursor: pointer;
+}
+.FBS{
+    padding-left: 17%;
+    margin-top: 12%;
+}
+.FBS2{
+    padding-left: 17%;
+    margin-top: 12%;
+}
+.FBS3{
+    padding-left: 17%;
+    margin-top: 12%;
+}
+.FBS4{
+    padding-left: 17%;
+    margin-top: 12%;
+}
+.rights{
+    padding-top: 12%;
+    font-size: x-small;
+    font-weight: 700;
+}
